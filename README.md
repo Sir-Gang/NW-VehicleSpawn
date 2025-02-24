@@ -16,7 +16,9 @@
 3. Add the vehicles into `Add-On-Vehicles.txt` using the format provided in there.
 4. Make your desired categories of vehicles inside `Categories.lua` (Example: BMW)
 5. Make your desired sub-categories of vehicles inside `Categories.lua` Example:
-```	name = "BMW",
+```
+    {
+	<span style="color:red">name = "BMW",</span>
 	subCategories = {
 		[1] = 'VEHICLE SUBCATEGORY 1',
  [1] = 'VEHICLE SUBCATEGORY',
