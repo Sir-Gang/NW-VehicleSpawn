@@ -18,7 +18,7 @@
 5. Make your desired sub-categories of vehicles inside `Categories.lua` Example:
 ```
     {
-	<span style="color:red">name = "BMW",</span>
+	name = "BMW",
 	subCategories = {
 		[1] = 'VEHICLE SUBCATEGORY 1',
  [1] = 'VEHICLE SUBCATEGORY',
