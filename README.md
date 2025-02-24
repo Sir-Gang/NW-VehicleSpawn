@@ -16,13 +16,13 @@
 3. Add the vehicles into `Add-On-Vehicles.txt` using the format provided in there.
 4. Make your desired categories of vehicles inside `Categories.lua` (Example: BMW)
 5. Make your desired sub-categories of vehicles inside `Categories.lua` Example:
-	name = "BMW",
+```	name = "BMW",
 	subCategories = {
 		[1] = 'VEHICLE SUBCATEGORY 1',
  [1] = 'VEHICLE SUBCATEGORY',
 	},
 },
-
+```
 
 ## Usage  
 - Open the menu using the assigned keybind (`F6` by default).  
@@ -33,7 +33,7 @@
 
 ## Support & Contact 
 This product has 24/7 support by NOWAYS, if anything goes wrong, contact us
-🌍 **Website:** https://www.noways.xyz) 
+🌍 **Website:** https://www.noways.xyz
 📧 **Email:** contact@noways.xyz  
 📍 **Based in Bucharest, Romania**  
 
